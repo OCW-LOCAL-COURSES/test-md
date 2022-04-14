@@ -1,5 +1,5 @@
 ---
-content_type: testimonials
+content_type: stories
 draft: false
 image:
   content: ''
@@ -8,7 +8,7 @@ leadquote: ''
 location: ''
 name: Test testimonials
 occupation: ''
-title: I am a testimonial
+title: please work with ref
 uid: 71ed271c-f210-4a78-8d09-24be0ec29482
 ---
 Convert me to stories
